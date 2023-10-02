@@ -11,6 +11,7 @@ Javascript - autor: Freedson
 Python - autor: Inacio
 
 Java - autora: Raquel
+É uma linguagem de programação de alto nível orientada a objetos;
 
 PHP - autor: Victor
 
