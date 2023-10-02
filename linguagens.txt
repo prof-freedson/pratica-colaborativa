@@ -20,6 +20,8 @@ C ++ - autor: Yan
 
 CSS - autor: Gabriel
 
+CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site.
+
 TypeScript - autor: Romulo
 
 Ruby - autor: William
