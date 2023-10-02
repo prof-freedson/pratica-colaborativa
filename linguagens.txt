@@ -10,6 +10,8 @@ Javascript - autor: Freedson
 
 Python - autor: Inacio
 
+É uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991. Atualmente, possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem, como um todo, não é formalmente especificada. O padrão na pratica é a implementação CPython.
+
 Java - autora: Raquel
 
 PHP - autor: Victor 
@@ -35,3 +37,11 @@ Rust - autor: Railson
 Go - autora: Naira
 
 Kotlin - autor: Thiago
+é uma linguagem de programação multiplataforma, orientada a 
+objetos e funcional, concisa e estaticamente tipada 
+(variáveis com tipos específicos), 
+desenvolvida pela JetBrains em 2011, que compila para a 
+Máquina virtual Java e que também pode ser traduzida para a 
+linguagem JavaScript e compilada para código nativo 
+(via LLVM). Foi anunciada em 2017 pela Google como a 
+linguagem oficial do sistema Android.
