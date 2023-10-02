@@ -28,7 +28,6 @@ C - autor: Mailson
 
 Swift - autor: Helry
 
-
 Rust - autor: Railson 
  linguagem de programação multiparadigma compilada desenvolvida pela Mozilla Research. É projetada para ser "segura, concorrente e prática", mas diferente de outras linguagens seguras, 
  Rust não usa coletor de lixo. Possui suporte nativo ao WebAssembly. 
