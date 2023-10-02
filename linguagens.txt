@@ -26,6 +26,8 @@ Ruby - autor: William
 
 C - autor: Mailson
 
+Swift - autor: Helry Embora a linguagem Swift seja de código aberto e possa ser usada em outras plataformas, como Linux e Windows,
+ a plataforma de desenvolvimento oficial da Apple, o Xcode, está disponível apenas na plataforma macos. 
  Isso significa que você não pode criar aplicativos iOS em Swift no Windows ou Linux usando o Xcode.
 
 Rust - autor: Railson
