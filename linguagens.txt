@@ -21,18 +21,26 @@ PHP - autor: Victor
 
 C # - autor: Braz
 
-C ++ - Podemos descrever C++ por duas palavras: elegância e performance. Seus códigos possuem uma sintaxe elegante e bem menos verbosa que as linguagens de alto nível modernas. Usando C++ você pode usar os paradigmas de programação estruturada, programação orientada a objetos e programação genérica.
- autor: Yan
+ é uma linguagem de programação orientada a objetos e orientada a componentes. C# fornece construções de linguagem para dar suporte diretamente a esses conceitos, tornando C# uma linguagem natural para criação e uso de componentes de software.
+
+C ++ Podemos descrever C++ por duas palavras: elegância e performance. Seus códigos possuem uma sintaxe elegante e bem menos verbosa que as linguagens de alto nível modernas. Usando C++ você pode usar os paradigmas de programação estruturada, programação orientada a objetos e programação genérica.
+- autor: Yan
 
 CSS - autor: Gabriel
+
+CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site.
 
 TypeScript - autor: Romulo
 
 Ruby - autor: William
 
+Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro "Matz" Matsumoto, para ser usada como linguagem de script. Matsumoto queria desenvolver uma linguagem de script que fosse mais poderosa do que Perl, e mais orientada a objetos do que Python. Ruby suporta programação funcional, orientada a objetos, imperativa e reflexiva. Foi inspirada principalmente por Python, Perl, Smalltalk, Eiffel, Ada e Lisp, sendo muito similar em vários aspectos a Python. Ruby está entre as 10 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
+
 C - autor: Mailson
 
-Swift - autor: Helry
+Swift - autor: Helry Embora a linguagem Swift seja de código aberto e possa ser usada em outras plataformas, como Linux e Windows,
+ a plataforma de desenvolvimento oficial da Apple, o Xcode, está disponível apenas na plataforma macos. 
+ Isso significa que você não pode criar aplicativos iOS em Swift no Windows ou Linux usando o Xcode.
 
 Rust - autor: Railson
 
