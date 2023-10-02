@@ -22,6 +22,11 @@ CSS - autor: Gabriel
 
 TypeScript - autor: Romulo
 
+TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft,
+ que é uma extensão do JavaScript. Ela adiciona recursos avançados ao JavaScript,
+ como a tipagem estática e interfaces,
+ tornando mais fácil detectar e prevenir erros durante a fase de desenvolvimento.
+
 Ruby - autor: William
 
 C - autor: Mailson
