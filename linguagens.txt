@@ -8,41 +8,28 @@ Javascript - autor: Freedson
 
 É uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. A grande maioria dos sites usa, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo.
 
-Python
+Python - autor: Inacio
 
-Java
+Java - autora: Raquel
 
-PHP
+PHP - autor: Victor
 
-C # 
+C # - autor: Braz
 
-C ++
+C ++ - autor: Yan
 
-CSS
+CSS - autor: Gabriel
 
-TypeScript
+TypeScript - autor: Romulo
 
-Rubi
+Ruby - autor: William
 
-C
+C - autor: Mailson
 
-Swift
+Swift - autor: Helry
 
-R
+Rust - autor: Railson
 
-Objective-C
+Go - autora: Naira
 
-Shell
-
-Scala
-
-Go
-
-PowerShell
-
-Kotlin
-
-Perl
-
-Rust 
-
+Kotlin - autor: Thiago
