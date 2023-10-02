@@ -26,7 +26,7 @@ Ruby - autor: William
 
 C - autor: Mailson
 
-Swift - autor: Helry
+ Isso significa que você não pode criar aplicativos iOS em Swift no Windows ou Linux usando o Xcode.
 
 Rust - autor: Railson
 
