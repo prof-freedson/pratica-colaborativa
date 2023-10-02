@@ -33,3 +33,11 @@ Rust - autor: Railson
 Go - autora: Naira
 
 Kotlin - autor: Thiago
+é uma linguagem de programação multiplataforma, orientada a 
+objetos e funcional, concisa e estaticamente tipada 
+(variáveis com tipos específicos), 
+desenvolvida pela JetBrains em 2011, que compila para a 
+Máquina virtual Java e que também pode ser traduzida para a 
+linguagem JavaScript e compilada para código nativo 
+(via LLVM). Foi anunciada em 2017 pela Google como a 
+linguagem oficial do sistema Android.
