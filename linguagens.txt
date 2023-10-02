@@ -25,13 +25,19 @@ C # - autor: Braz
 
  é uma linguagem de programação orientada a objetos e orientada a componentes. C# fornece construções de linguagem para dar suporte diretamente a esses conceitos, tornando C# uma linguagem natural para criação e uso de componentes de software.
 
-C ++ - autor: Yan
+C ++ Podemos descrever C++ por duas palavras: elegância e performance. Seus códigos possuem uma sintaxe elegante e bem menos verbosa que as linguagens de alto nível modernas. Usando C++ você pode usar os paradigmas de programação estruturada, programação orientada a objetos e programação genérica.
+- autor: Yan
 
 CSS - autor: Gabriel
 
 CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site.
 
 TypeScript - autor: Romulo
+
+TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft,
+ que é uma extensão do JavaScript. Ela adiciona recursos avançados ao JavaScript,
+ como a tipagem estática e interfaces,
+ tornando mais fácil detectar e prevenir erros durante a fase de desenvolvimento.
 
 Ruby - autor: William
 
@@ -43,8 +49,9 @@ Swift - autor: Helry Embora a linguagem Swift seja de código aberto e possa ser
  a plataforma de desenvolvimento oficial da Apple, o Xcode, está disponível apenas na plataforma macos. 
  Isso significa que você não pode criar aplicativos iOS em Swift no Windows ou Linux usando o Xcode.
 
-Rust - autor: Railson
-
+Rust - autor: Railson 
+ linguagem de programação multiparadigma compilada desenvolvida pela Mozilla Research. É projetada para ser "segura, concorrente e prática", mas diferente de outras linguagens seguras, 
+ Rust não usa coletor de lixo. Possui suporte nativo ao WebAssembly. 
 Go - autora: Naira
 
 Kotlin - autor: Thiago
