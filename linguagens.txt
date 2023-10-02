@@ -16,7 +16,8 @@ PHP - autor: Victor
 
 C # - autor: Braz
 
-C ++ - autor: Yan
+C ++ - Podemos descrever C++ por duas palavras: elegância e performance. Seus códigos possuem uma sintaxe elegante e bem menos verbosa que as linguagens de alto nível modernas. Usando C++ você pode usar os paradigmas de programação estruturada, programação orientada a objetos e programação genérica.
+ autor: Yan
 
 CSS - autor: Gabriel
 
